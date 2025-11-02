@@ -23,7 +23,11 @@ It is built with clean design principles, optimized performance, and mobile-firs
 | Frontend | Styling | Deployment |
 |-----------|----------|-------------|
 | HTML5 | CSS3  | GitHub Pages  |
-| JavaScript ( | | — |
+| JavaScript  | | — |
 
+---
+## 🔗 Live Demo
+Check out my live portfolio here:  
+👉 https://aldarin25.github.io/Portfolio/
 ---
 
